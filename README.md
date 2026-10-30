@@ -108,7 +108,3 @@ La fonction de connexion conserve `oci_connect` et l'encodage `AL32UTF8`. Si `co
 Application académique de démonstration. Certaines rubriques proposent des opérations de gestion, d’autres sont en consultation seule. La liste de souhaits publique repose sur un identifiant enfant, sans compte individuel : les démonstrations doivent utiliser des données fictives.
 
 L’exécution nécessite un environnement PHP/OCI8 relié à Oracle et sa configuration privée. Les icônes du tableau de bord sont chargées depuis le CDN Font Awesome.
-
-## Auteurs
-
-**Melissa IKERROUYENE** et **Hocine ABDELAZIZ**.
