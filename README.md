@@ -4,6 +4,10 @@ Application web universitaire développée en **PHP et Oracle SQL**, avec une in
 
 Le projet a été développé et exécuté dans l’environnement universitaire de l’UPJV, avec une base Oracle.
 
+## Aperçu
+
+![Aperçu de SantaLogistics : site public et administration](docs/apercu.gif)
+
 ## Fonctionnalités
 
 - **Catalogue public** : consultation des jouets, recherche et création d’une liste de souhaits.
