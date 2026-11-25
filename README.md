@@ -8,6 +8,16 @@ Le projet a été développé et exécuté dans l’environnement universitaire 
 
 ![Aperçu de SantaLogistics : site public et administration](docs/apercu.gif)
 
+## Démonstrations vidéo
+
+### Site public
+
+https://github.com/user-attachments/assets/4431707d-9970-49e1-bd24-c0efec9de29b
+
+### Administration
+
+https://github.com/user-attachments/assets/558b5bcc-c5b3-4d14-bc64-8703303d89ea
+
 ## Fonctionnalités
 
 - **Catalogue public** : consultation des jouets, recherche et création d’une liste de souhaits.
